@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there  👋
 # About Me:
 Software Engineer with a strong foundation in Web Development and Data Structures & Algorithms (DSA). I thrive on solving real-world problems and building scalable, high-performance applications. 
 
